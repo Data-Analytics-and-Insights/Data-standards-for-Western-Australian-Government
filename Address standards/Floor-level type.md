@@ -1,0 +1,15 @@
+Value	Meaning
+B	Basement
+FL	Floor
+G	Ground
+L	Level
+LG	Lower ground floor
+M	Mezzanine
+OD	Observation deck
+P	Parking
+PTHS	Penthouse
+PLF	Platform
+PDM	Podium
+RT	Rooftop
+SB	Sub-basement
+UG	Upper ground floor
